@@ -1,13 +1,13 @@
 title: "Juhl.AI Journal"
 description: "Notes, reflections, and progress from my AI learning journey."
-theme: jekyll-theme-cayman
+theme: minima
 show_excerpts: true
+
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/ajuhl" }
-    # - { platform: x,       user_url: "https://x.com/<your-handle>" }
-    # - { platform: linkedin,user_url: "https://www.linkedin.com/in/<your-handle>/" }
-# Simple top nav
+    - { platform: github, user_url: "https://github.com/ajuhl" }
+
 header_pages:
   - index.md
-timezone: "Etc/UTC"   # change if you want local dates
+
+timezone: "Etc/UTC"
