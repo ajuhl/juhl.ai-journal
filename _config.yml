@@ -1,6 +1,6 @@
 title: "Juhl.AI Journal"
 description: "Notes, reflections, and progress from my AI learning journey."
-theme: minima
+theme: jekyll-theme-cayman
 show_excerpts: true
 minima:
   social_links:
