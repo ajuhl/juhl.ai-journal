@@ -1,6 +1,2 @@
 title: "Juhl — AI Journal"
-description: "Notes, reflections, and progress from my AI learning journey."
 theme: minima
-plugins:
-  - jekyll-feed
-show_excerpts: true
